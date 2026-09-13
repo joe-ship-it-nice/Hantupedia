@@ -45,3 +45,10 @@ The ghosts, supernatural beings, descriptions and booking concept are presented 
 Please do not attempt to summon anything listed on this website, especially after midnight.
 
 We don't have customer support for that.
+
+Built using:
+- JavaScript (ES6)
+- React
+- HTML
+- CSS
+- Bootstrap
