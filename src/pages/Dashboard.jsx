@@ -348,7 +348,7 @@ function Dashboard() {
                             </span>
                         </div>
 
-                        {/* GUIDE: If no category is selected, show an empty message. */}
+                        {/*If no category is selected, show an empty message. */}
                         {
                             filteredGhosts.length ===
                                 0 ? (
