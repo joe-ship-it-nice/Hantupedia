@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Pontianak",
+        "category": "Malay",
+        "description": "A female spirit often associated with banana trees. Can scream and manage your ex-boyfriend.",
+        "status": "Available",
+        "image": "/ghost_pics/pontianak.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pocong",
+        "category": "Malay",
+        "description": "A shrouded ghost with its burial cloth remains tied. Provides jump scares and professional hopping.",
+        "status": "Busy",
+        "image": "/ghost_pics/pocong.png"
+    },
+    {
+        "id": 3,
+        "name": "Toyol",
+        "category": "Malay",
+        "description": "A small sneaky supernatural being. Talented in stealing money and valuables.",
+        "status": "Available",
+        "image": "/ghost_pics/toyol.png"
+    },
+    {
+        "id": 4,
+        "name": "Jiangshi",
+        "category": "Chinese",
+        "description": "Hopping corpse in Qing-era clothing. Suitable for night patrols and guarding treasures.",
+        "status": "Available",
+        "image": "/ghost_pics/jiangshi.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Hungry Ghost",
+        "category": "Chinese",
+        "description": "A restless spirit driven by insatiable hunger. Can eat a lot. A fantastic mukbang companion.",
+        "status": "Busy",
+        "image": "/ghost_pics/hungryghost.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Kuttichathan",
+        "category": "Indian",
+        "description": "A mischievous supernatural boy. Can do pranks and sabotages. Great for parties and events.",
+        "status": "Available",
+        "image": "/ghost_pics/kutti.png"
+    },
+    {
+        "id": 7,
+        "name": "Penanggal",
+        "category": "Malay",
+        "description": "Detaches her head from its body at night, flying through the darkness. Specializes in aerial surveillance and rooftop inspections.",
+        "status": "Available",
+        "image": "/ghost_pics/penanggal.png"
+    },
+    {
+        "id": 8,
+        "name": "Bhuta",
+        "category": "Indian",
+        "description": "A restless spirit resulting from an unnatural death. Makes any suspiciously peaceful house properly haunted.",
+        "status": "Available",
+        "image": "/ghost_pics/bhuta.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Brahmarakshasa",
+        "category": "Indian",
+        "description": "Enormous and frightening but super intelligent. Can help you with your business and investments.",
+        "status": "Available",
+        "image": "/ghost_pics/brahmarakshasa.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Mohini",
+        "category": "Indian",
+        "description": "A fierce female spirit who enchants men. Provides professional dating consultancy.",
+        "status": "Available",
+        "image": "/ghost_pics/mohini.png"
+    },
+    {
+        "id": 11,
+        "name": "Hantu Tetek",
+        "category": "Malay",
+        "description": "A ghost with enormous breasts. Can disorient, trap and suffocate your enemies.",
+        "status": "Busy",
+        "image": "/ghost_pics/hantutetek.jpg"
+    }
+]

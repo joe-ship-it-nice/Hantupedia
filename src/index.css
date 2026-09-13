@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+
+  font-family:
+    Arial,
+    Helvetica,
+    sans-serif;
+  color: #222;
+
+  background:
+    radial-gradient(circle at 20% 30%,
+      rgba(119, 31, 151, 0.55),
+      transparent 35%),
+    radial-gradient(circle at 80% 20%,
+      rgba(255, 201, 229, 0.45),
+      transparent 35%),
+    radial-gradient(circle at 70% 80%,
+      rgba(55, 27, 94, 0.55),
+      transparent 40%),
+    linear-gradient(135deg,
+      #17111f,
+      #291313,
+      #111b22);
+}
+
+button,
+input {
+  font: inherit;
+}
+
+#root {
+  min-height: 100vh;
+}
