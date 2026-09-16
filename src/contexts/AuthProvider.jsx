@@ -1,6 +1,7 @@
 import { useState } from "react";
 import AuthContext from "./AuthContext";
 
+// If nothing has been saved, it is false
 function AuthProvider({ children }) {
     const [isLoggedIn, setIsLoggedIn] = useState(
         localStorage.getItem("isLoggedIn") === "true"
@@ -14,6 +15,7 @@ function AuthProvider({ children }) {
             password === correctPassword
         ) {
             setIsLoggedIn(true);
+            // localStorage makes the login survive a refresh.
             localStorage.setItem("isLoggedIn", "true");
 
             return true;
